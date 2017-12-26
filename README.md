@@ -2,6 +2,7 @@
 
 ## Objectives
 
+
 1. Define the purpose of a code test.
 2. Read the RSpec tests.
 3. Run tests via the `learn` command.
